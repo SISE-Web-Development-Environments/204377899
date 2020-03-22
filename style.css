@@ -3,5 +3,42 @@
 	position: fixed;
 	width: 100%;
 	height: 35px;
-	background: white;
+	background: mediumspringgreen;
+}
+
+#about
+{
+	background: springgreen;
+}
+
+#photos
+{
+	background: mediumspringgreen;
+}
+
+#playlist
+{
+	background: springgreen;
+}
+
+
+#like
+{
+	background: mediumspringgreen;
+}
+#qrcoder
+{
+	background: springgreen;
+}
+
+#spa
+{
+	background: mediumspringgreen;
+}
+#contact
+{
+	
+	background: springgreen;
+	
+	
 }
